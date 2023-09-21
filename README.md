@@ -51,6 +51,7 @@ This repository contains SQL queries for exploring COVID-19 data using various S
 
 3. Explore the results of each query for insights into COVID-19 data.
 
+**Dataset Link**: [COVID-19 Data Source](https://ourworldindata.org/covid-deaths)
 
 ## Author
 
